@@ -14,7 +14,7 @@ Participants will need to use their knowledge of Git and Github for each task, a
 The primary objective? To help the community become better at contributing to open source and building projects.
 
 ## Learning Outcomes
-1. Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
+1. Learn how to contribute to open-source projects. Learn the basics of creating issues, pull requests, Git and Github
 2. Celebrate with new rewards every time you reach a milestone!
 
 ## How to participate?
